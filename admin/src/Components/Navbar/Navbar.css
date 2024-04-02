@@ -1,0 +1,37 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 60px;
+    box-shadow: 0 1px 3px -2px #000;
+    margin-top: 1px;
+    background: white;
+}
+
+.nav-logo{
+    width: 200px;
+}
+.nav-profile{
+    width: 75px;
+}
+
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 0px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.footer-logo img {
+    height: 60px; /* adjust the height as needed */
+    margin-right: 10px;
+}
+
+.footer-logo p {
+    margin: 0;
+    color:black;
+    font-size: 46px;
+    font-weight: 700;
+}
